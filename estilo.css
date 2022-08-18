@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(
+        90deg,
+        rgb(41, 41, 190) 15%,
+        rgb(255, 0, 106) 100%
+      );
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
